@@ -86,13 +86,11 @@ Ashokkumar
 
 🔗 Connect with Me
 
-💻 LinkedIn Profile:
-(https://www.linkedin.com/in/ashok45/)
+💻 LinkedIn Profile:(https://www.linkedin.com/in/ashok45/)
 
 📂 GitHub Repository
 
-📝 Dev.to Post:
-(https://dev.to/ashok_kumar_564581944e3ef)
+📝 Dev.to Post:(https://dev.to/ashok_kumar_564581944e3ef)
 
 
 
